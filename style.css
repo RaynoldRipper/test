@@ -167,7 +167,7 @@ textarea:focus:-ms-input-placeholder {
     stroke: #2979ff;
 }
 
-.icon-fav:hover{
+.btn-descr:hover .icon-fav{
     fill:transparent;
     stroke: #cf6b60;
 }
