@@ -146,50 +146,6 @@ textarea:focus:-ms-input-placeholder {
     flex-wrap: wrap;
 }
 
-/* .btn-descr{
-    padding-left: 15px;
-    padding-right: 15px;
-    margin-right: 15px;
-    margin-bottom: 15px;
-    background-color: transparent;
-    color: #2979ff !important;;
-}
-
-.btn-descr:hover{
-    background-color: transparent;
-    color: #7441ff !important;
-    text-decoration: underline;
-}  */
-
-/* .btn-descr{
-    padding-left: 15px;
-    padding-right: 15px;
-    margin-right: 15px;
-    margin-bottom: 15px;
-    transition: all 0.2s;
-    background-color: transparent;
-    color: #2979ff !important;
-    text-transform: none; 
-} */
-
-/* .btn-descr:hover{
-    background-color: transparent;
-    color: #cf6b60 !important;
-    
-} */
-/* .btn-descr{
-    padding-left: 15px;
-    padding-right: 15px;
-    margin-right: 15px;
-    margin-bottom: 15px;
-    border-top-right-radius: 0px;
-    border-bottom-left-radius: 0px;
-}
-
-.btn-descr:hover{
-    
-} */
-
 .desc-icon{
     display: inline-block;
     vertical-align: bottom;
@@ -207,12 +163,12 @@ textarea:focus:-ms-input-placeholder {
 }
 
 .icon-fav{
-    fill:transperent;
+    fill:transparent;
     stroke: #2979ff;
 }
 
 .icon-fav:hover{
-    fill:transperent;
+    fill:transparent;
     stroke: #cf6b60;
 }
 
