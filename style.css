@@ -161,6 +161,9 @@ textarea:focus:-ms-input-placeholder {
     cursor: pointer;
 }
 
+.btn-descr-none{
+    display: none;
+}
 
 @media (max-width:786px){
     .btn-descr{
@@ -169,7 +172,7 @@ textarea:focus:-ms-input-placeholder {
     }
 }
 
-.desc-icon{
+.descr-icon{
     display: inline-block;
     vertical-align: bottom;
     margin-right: 10px;

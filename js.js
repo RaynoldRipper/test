@@ -1,9 +1,6 @@
-var iconFav = document.querySelector('icon-fav');
+var iconFav = document.querySelector('.icon-fav');
+var test = document.getElementById('descr-fav');
 
-iconFav.addEventListener('click', function() {
-  if (iconFav.classList.contains('icon-fav')) {
-    navMain.classList.add('icon-fav-active');
-  } else {
-    navMain.classList.remove('icon-fav-active');
-  }
+test.addEventListener('click', function() {
+  iconFav.classList.toggle('icon-fav-active')
 });
