@@ -195,6 +195,7 @@ textarea:focus:-ms-input-placeholder {
     margin-right: 10px;
     width: 16px;
     height: 16px;
+    fill: #2979ff;
 }
 
 .btn-descr:hover{
