@@ -178,6 +178,11 @@ textarea:focus:-ms-input-placeholder {
     stroke: #2979ff;
 }
 
+.btn-descr:hover .icon-fav-active{
+    fill:#2979ff;
+    stroke: #2979ff;
+}
+
 .btn-descr{
     padding-left: 15px;
     padding-right: 15px;
