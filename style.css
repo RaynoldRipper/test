@@ -175,6 +175,7 @@ textarea:focus:-ms-input-placeholder {
 /* .btn-descr:hover{
     background-color: transparent;
     color: #cf6b60 !important;
+    
 } */
 /* .btn-descr{
     padding-left: 15px;
@@ -186,7 +187,7 @@ textarea:focus:-ms-input-placeholder {
 }
 
 .btn-descr:hover{
-
+    
 } */
 
 .desc-icon{
@@ -195,7 +196,7 @@ textarea:focus:-ms-input-placeholder {
     margin-right: 10px;
     width: 16px;
     height: 16px;
-    fill: #2979ff;
+    
 }
 
 .btn-descr:hover{
@@ -235,6 +236,7 @@ textarea:focus:-ms-input-placeholder {
     background-color: transparent;
     color: #2979ff !important;
     border: #2979ff 1px solid;
+    fill: #2979ff;
 }
 
 /*  */
