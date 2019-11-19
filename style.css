@@ -165,6 +165,7 @@ textarea:focus:-ms-input-placeholder {
 .icon-fav{
     fill:transparent;
     stroke: #2979ff;
+    transition: all 0.2s;
 }
 
 .btn-descr:hover .icon-fav{
