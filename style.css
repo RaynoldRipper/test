@@ -207,25 +207,18 @@ textarea:focus:-ms-input-placeholder {
 }
 
 .icon-fav{
-    background: url(./desc-icons.svg);
-    background-position: -108px 0;
+    fill:transperent;
+    stroke: #2979ff;
+}
+
+.icon-fav:hover{
+    fill:transperent;
+    stroke: #cf6b60;
 }
 
 .icon-fav-active{
-    background: url(./desc-icons.svg);
-    background-position: -54px 0;
-}
-
-.icon-feedback{
-    background: url(./writing.svg);
-}
-
-.icon-more{
-    background: url(./expand-button.svg);
-}
-
-.icon-review{
-    background: url(./speech-bubble.svg);
+    fill:#2979ff;
+    stroke: #2979ff;
 }
 
 .btn-descr{
