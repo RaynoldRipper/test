@@ -169,10 +169,6 @@ textarea:focus:-ms-input-placeholder {
     .btn-descr{
         flex-basis: 100%;
     }
-
-    .btn-more-container{
-        width: 100%;
-    }
 }
 
 .descr-icon{
@@ -209,49 +205,6 @@ textarea:focus:-ms-input-placeholder {
 .btn-descr:hover .icon-fav-active{
     fill:#2979ff;
     stroke: #2979ff;
-}
-
-.btn-more-container{
-    display: none;
-    position: absolute;
-    padding-bottom: 15px;
-    left: 0;
-    top: -52px;
-}
-
-.btn-more-container .btn-descr:first-child{
-    margin-right: 15px;
-}
-
-.btn-more-container .btn-descr{
-    background-color: #fff;
-    margin: 0;
-    min-width: 190px;
-}
-
-.btn-row .btn-more {
-    position: relative;
-}
-
-.btn-row .btn-more:hover > .btn-more-container {
-    display: flex;
-}
-
-@media (max-width:628px){
-    .btn-row .btn-more:hover > .btn-more-container {
-        display: block;
-    }
-    .btn-more-container{
-        top: -93px;
-    }
-    .btn-more-container .btn-descr{
-        margin: 0;
-        margin-bottom: 10px;
-    }
-    .btn-more-container .btn-descr:first-child {
-        margin-right: 0px;
-    }
-    
 }
 
 /* /Desc buttons  */
