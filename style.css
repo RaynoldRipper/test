@@ -185,9 +185,9 @@ textarea:focus:-ms-input-placeholder {
 
 .btn-descr:hover{
     background-color: transparent;
-    color: #be84ff !important;
+    color: #943de4 !important;
     border: 1px solid ;
-    fill: #be84ff;
+    fill: #943de4;
 }
 
 .icon-fav{
@@ -198,7 +198,7 @@ textarea:focus:-ms-input-placeholder {
 
 .btn-descr:hover .icon-fav{
     fill:transparent;
-    stroke: #be84ff;
+    stroke: #943de4;
 }
 
 .icon-fav-active{
@@ -229,16 +229,16 @@ textarea:focus:-ms-input-placeholder {
     min-width: 190px;
 }
 
-.btn-row .rel {
+.btn-row .btn-more {
     position: relative;
 }
 
-.btn-row .rel:hover > .btn-more-container {
+.btn-row .btn-more:hover > .btn-more-container {
     display: flex;
 }
 
 @media (max-width:628px){
-    .btn-row .rel:hover > .btn-more-container {
+    .btn-row .btn-more:hover > .btn-more-container {
         display: block;
     }
     .btn-more-container{
