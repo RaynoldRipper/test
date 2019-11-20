@@ -185,9 +185,9 @@ textarea:focus:-ms-input-placeholder {
 
 .btn-descr:hover{
     background-color: transparent;
-    color: #8929f2 !important;
+    color: #be84ff !important;
     border: 1px solid ;
-    fill: #8929f2;
+    fill: #be84ff;
 }
 
 .icon-fav{
@@ -198,7 +198,7 @@ textarea:focus:-ms-input-placeholder {
 
 .btn-descr:hover .icon-fav{
     fill:transparent;
-    stroke: #cf6b60;
+    stroke: #be84ff;
 }
 
 .icon-fav-active{
@@ -226,7 +226,7 @@ textarea:focus:-ms-input-placeholder {
 .btn-more-container .btn-descr{
     background-color: #fff;
     margin: 0;
-    min-width: 160px;
+    min-width: 190px;
 }
 
 .btn-row .rel {
